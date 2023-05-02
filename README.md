@@ -32,4 +32,4 @@ The project is organized as follows:
 
 ## Conclusion
 
-Thank you for joining us on this journey of exploring the relationship between weather factors in Barcelona and electricity prices in Spain. We hope you find the insights gained from this analysis informative and interesting. Please refer to the individual sections for detailed analysis and findings. Feel free to provide feedback and suggestions for further improvement. Happy exploring!
+Thank you for joining me on this journey of exploring the relationship between weather factors in Barcelona and electricity prices in Spain. We hope you find the insights gained from this analysis informative and interesting. Please refer to the individual sections for detailed analysis and findings. Feel free to provide feedback and suggestions for further improvement. Happy exploring!
